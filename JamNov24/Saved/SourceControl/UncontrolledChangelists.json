@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/4A/Q9Z51K6N5LR5TOB6POKL90.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VO/GQDQX9XXVO6UBDZNXJFYDS.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/FirstPerson/Maps/Level_1.umap",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/FirstPerson/Maps/Level_2.umap",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/FirstPerson/Blueprints/BP_LevelSwitch.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/FirstPerson/Blueprints/BP_Enemy.uasset",
+				"C:/Users/catou/GitHub/SSGDCNov24/JamNov24/Content/FirstPerson/Blueprints/BP_KillFloor.uasset"
+			]
+		}
+	]
+}
